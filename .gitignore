@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.vercel
+.netlify
+.env*.local
+.env
+*.log
+.DS_Store
+*.tsbuildinfo
+AGENTS.md
+CLAUDE.md
+offerboard-site.zip
+*.zip
